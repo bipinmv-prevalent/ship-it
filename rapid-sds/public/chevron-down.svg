@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="MDI_chevron-down" data-name="MDI / chevron-down" transform="translate(0 24) rotate(-90)">
+    <g id="Boundary" fill="#fff" stroke="rgba(0,0,0,0)" stroke-width="1" opacity="0">
+      <rect width="24" height="24" stroke="none"/>
+      <rect x="0.5" y="0.5" width="23" height="23" fill="none"/>
+    </g>
+    <path id="Path_chevron-down" data-name="Path / chevron-down" d="M7.41,8.58,12,13.17l4.59-4.59L18,10l-6,6L6,10Z" transform="translate(0 -0.58)" fill="#fff"/>
+  </g>
+</svg>
